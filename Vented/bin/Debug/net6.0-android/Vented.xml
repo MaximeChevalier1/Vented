@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Vented</name>
+    </assembly>
+    <members>
+        <member name="P:Vented.ViewModel.BaseViewModel.IsBusy">
+            <inheritdoc cref="F:Vented.ViewModel.BaseViewModel.isBusy"/>
+        </member>
+        <member name="P:Vented.ViewModel.BaseViewModel.Title">
+            <inheritdoc cref="F:Vented.ViewModel.BaseViewModel.title"/>
+        </member>
+    </members>
+</doc>
